@@ -5,7 +5,7 @@ It includes RESTful service endpoints to create, list, update and delete Users. 
 Each user contains attributes such as name, email, password and last login time. H2 in-memory database is used to store and fetch the data.
 
 
-#Building the project
+# Building the project
 
 Java  version Used: `Java 11`
 
@@ -13,7 +13,7 @@ Maven version Used:` >3.8.0`
 
 Run `mvn clean install ` from parent directory to build the project.
 
-#Running the Application
+# Running the Application
 
 Run `mvn spring-boot:run` to run the application from command line
 
