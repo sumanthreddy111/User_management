@@ -19,4 +19,5 @@ Run `mvn spring-boot:run` to run the application from command line
 
 once your application is running you can access the endpoints from any API testing tools by importing the below json file.
 
-[User management.postman_collection.json](User management.postman_collection.json)
+[Download User management.postman_collection.json](./User management.postman_collection.json)
+
