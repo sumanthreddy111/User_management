@@ -17,7 +17,5 @@ Run `mvn clean install ` from parent directory to build the project.
 
 Run `mvn spring-boot:run` to run the application from command line
 
-once your application is running you can access the endpoints from any API testing tools by importing the below json file.
-
-[Download User management.postman_collection.json](./User management.postman_collection.json)
+once your application is running you can access the endpoints from any API testing tool by importing User management.postman_collection.json that is present in the parent directory.
 
